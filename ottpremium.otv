@@ -4919,7 +4919,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
 SPORTS
 #######
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="sonysport.ott",
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="sonysport.ott",S O N Y  S P O R T S
 https://tunebox.shop/promo2
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports1.png",SONY TEN SPORTS 1
