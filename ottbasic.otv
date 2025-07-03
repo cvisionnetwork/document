@@ -1930,7 +1930,7 @@ CODE:403-FORBIDDEN
 
 
 
-#EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epg.pw/xmltv/epg_SG.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,  https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_ID.xml.gz, https://bit.ly/moj-epg, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://i.mjh.nz/PlutoTV/all.xml" billed-msg=🔥Pembelian, 🔥Langganan Semula, 🔥Pertanyaan Dan Bantuan? Chat Admin Melalui Whatsapp/Telegram  011-3109-2605"
+#EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epg.pw/xmltv/epg_SG.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,  https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/TUNEBOXDlGlTAL/EPG/main/sonysport.xml, https://bit.ly/moj-epg, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://i.mjh.nz/PlutoTV/all.xml" billed-msg="U N T U K  M E L A N G G A N A N   H U B U N G I  W H A T S A P P - 0 1 1  3 1 0 9  2 6 0 5"
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="MALAYSlA",101 TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -1949,15 +1949,16 @@ https://tunebox.space/i̇i̇i̇i̇tv2
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://tunebox.space/i̇i̇i̇i̇tv3
 
-
+#EXTINF:-1 group-title="DRAMA" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ M A L A Y S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 ch-number="104" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ria.png" tvg-id="104.astro",104 RIA
+#EXTINF:-1 ch-number="104" group-title="MALAYSlA;DRAMA" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ria.png" tvg-id="104.astro",104 RIA
 https://tunebox.space/i̇i̇i̇i̇ria
 
-#EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/prima.png" group-title="MALAYSlA",105 PRIMA
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/prima.png" group-title="MALAYSlA;DRAMA",105 PRIMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -1978,21 +1979,26 @@ https://tunebox.space/i̇i̇i̇i̇oasis
 https://tunebox.space/i̇i̇i̇i̇fitrah
 
 
-#EXTINF:-1 ch-number="108" group-title="MALAYSlA" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/citra.png" tvg-id="108.astro",108 CITRA
+
+#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ M A L A Y S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 ch-number="108" group-title="MALAYSlA;MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/citra.png" tvg-id="108.astro",108 CITRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/i̇i̇i̇i̇citra
 
 
-#EXTINF:-1 tvg-id="128.unifi" ch-number="109" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/duniasinema.png",109 DUNIA SINEMA
+#EXTINF:-1 tvg-id="128.unifi" ch-number="109" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/duniasinema.png",109 DUNIA SINEMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://tunebox.space/i̇i̇i̇i̇duniasinema
 
 
-#EXTINF:-1 tvg-id="121.unifi" ch-number="110" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/siar.png",110 SIAR
+#EXTINF:-1 tvg-id="121.unifi" ch-number="110" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/siar.png",110 SIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2095,7 +2101,7 @@ https://tunebox.space/i̇i̇i̇i̇apetito
 
 
 
-#EXTINF:-1 tvg-id="112.astro" ch-number="127" group-title="MALAYSlA;DRAMA" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dramalogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rania.png",127 RANIA
+#EXTINF:-1 tvg-id="112.astro" ch-number="127" group-title="MALAYSlA;DRAMA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rania.png",127 RANIA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2174,7 +2180,7 @@ https://tunebox.space/i̇i̇i̇i̇jomngaji
 
 
 
-#EXTINF:-1 group-title="MALAYSlA" ch-number="131" tvg-id="FilemMantap" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/filemmantap.png",131 FILEM MANTAP
+#EXTINF:-1 group-title="MALAYSlA;MOVlES" ch-number="131" tvg-id="FilemMantap" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/filemmantap.png",131 FILEM MANTAP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2189,10 +2195,11 @@ https://tunebox.space/i̇i̇i̇i̇dramahebat
 
 
 
+#EXTINF:-1 group-title="ENTERTAlNMENT" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/entertainmentlogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ M A L A Y S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
-
-#EXTINF:-1 group-title="MALAYSlA;ENTERTAlNMENT" ch-number="134" tvg-id="LawakSentral" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/entertainmentlogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lawaksentral.png",134 LAWAK SENTRAL
+#EXTINF:-1 group-title="MALAYSlA;ENTERTAlNMENT" ch-number="134" tvg-id="LawakSentral" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lawaksentral.png",134 LAWAK SENTRAL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2244,7 +2251,7 @@ https://tunebox.space/i̇i̇i̇i̇vaanavil
 #EXTINF:-1 tvg-id="202.astro" ch-number="202" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vinmeen.png",202 VINMEEN
 https://tunebox.space/i̇i̇i̇i̇vinmeen
 
-#EXTINF:-1 tvg-id="203.astro" ch-number="203" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vellithirai.png",203 VELLITHIRAI
+#EXTINF:-1 tvg-id="203.astro" ch-number="203" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vellithirai.png",203 VELLITHIRAI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2266,7 +2273,11 @@ https://tunebox.space/i̇i̇i̇i̇vellithirai
 https://tunebox.space/i̇i̇i̇i̇suntv
 
 
-#EXTINF:-1 ch-number="212" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sunmusic.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/musiclogo.png"  group-title="MALAYSlA;MUSlC" tvg-id="212.astro",212 SUN MUSIC
+#EXTINF:-1 group-title="MUSlC" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/musiclogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ M A L A Y S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 ch-number="212" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sunmusic.png" group-title="MALAYSlA;MUSlC" tvg-id="212.astro",212 SUN MUSIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2281,13 +2292,17 @@ https://tunebox.space/i̇i̇i̇i̇adithya
 
 
 
-#EXTINF:-1 tvg-id="215.astro" ch-number="215" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newslogo.png" group-title="MALAYSlA;NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sunnews.png",215 SUN NEWS
+#EXTINF:-1 group-title="NEWS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/newslogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ M A L A Y S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 tvg-id="215.astro" ch-number="215" group-title="MALAYSlA;NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sunnews.png",215 SUN NEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rAh5IEchjKKgHyu9EtkFAQ", "kid":"ChccwbuQ94ggzyXMVfDuEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/i̇i̇i̇i̇sunnews
 
-#EXTINF:-1 tvg-id="216.astro" ch-number="216" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ktv.png",216 KTV
+#EXTINF:-1 tvg-id="216.astro" ch-number="216" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ktv.png",216 KTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c2SM66N1FkWSbUVCHIXZJw", "kid":"jnhjqOdwsNcuvkpoQ3tkEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2302,7 +2317,7 @@ https://tunebox.space/i̇i̇i̇i̇ktv
 https://tunebox.space/i̇i̇i̇i̇sunlife
 
 
-#EXTINF:-1 tvg-id="221.astro" ch-number="221" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/starvijay.png",221 STAR VIJAY
+#EXTINF:-1 tvg-id="221.astro" ch-number="221" group-title="MALAYSlA;ENTERTAlNMENT" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/starvijay.png",221 STAR VIJAY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2323,7 +2338,7 @@ https://tunebox.space/i̇i̇i̇i̇colorstamil
 https://tunebox.space/i̇i̇i̇i̇zeetamil
 
 
-#EXTINF:-1 group-title="MALAYSlA" tvg-number="241" tvg-id="241.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thangathirai.png",241 THANGATHIRAI
+#EXTINF:-1 group-title="MALAYSlA;MOVlES" tvg-number="241" tvg-id="241.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thangathirai.png",241 THANGATHIRAI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2332,7 +2347,7 @@ https://tunebox.space/i̇i̇i̇i̇thanga
 
 
 
-#EXTINF:-1 tvg-id="251.astro" ch-number="251" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/zeecinema.png" group-title="MALAYSlA",251 ZEE CINEMA
+#EXTINF:-1 tvg-id="251.astro" ch-number="251" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/zeecinema.png" group-title="MALAYSlA;MOVlES",251 ZEE CINEMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2379,7 +2394,7 @@ https://tunebox.space/i̇i̇i̇i̇qj
 
 
 
-#EXTINF:-1 tvg-id="309.astro" ch-number="309" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/celestialmovies.png" group-title="MALAYSlA",309 CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="309.astro" ch-number="309" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/celestialmovies.png" group-title="MALAYSlA;MOVlES",309 CELESTIAL MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2434,7 +2449,7 @@ https://tunebox.space/i̇i̇i̇i̇tvbxinghe
 https://tunebox.space/i̇i̇i̇i̇tvbsasia
 
 
-#EXTINF:-1 tvg-id="321.astro" ch-number="321" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ccm.png",321 CELESTIAL CLASSIC MOVIES
+#EXTINF:-1 tvg-id="321.astro" ch-number="321" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ccm.png",321 CELESTIAL CLASSIC MOVIES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2465,7 +2480,7 @@ https://tunebox.space/i̇i̇i̇i̇phoenixinfonews
 https://tunebox.space/i̇i̇i̇i̇huaheedai
 
 
-#EXTINF:-1 tvg-id="335.astro" ch-number="335" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cctv4.png" group-title="MALAYSlA",335 CCTV4
+#EXTINF:-1 tvg-id="335.astro" ch-number="335" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cctv4.png" group-title="MALAYSlA;NEWS",335 CCTV4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hCVpDEhE+7AbXq5wa8L3xg","kid":"2xozj3HUAYb1mXywhbs/EA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2520,7 +2535,7 @@ https://tunebox.space/i̇i̇i̇i̇nhkworldpremium
 
 
 
-#EXTINF:-1 tvg-id="401.astro" ch-number="401" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsmovies.png",401 HITS MOVIES
+#EXTINF:-1 tvg-id="401.astro" ch-number="401" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsmovies.png",401 HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -2529,7 +2544,7 @@ https://tunebox.space/i̇i̇i̇i̇hitsmovies
 
 
 
-#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/boo.png" group-title="MALAYSlA" ch-number="404",404 BOO
+#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/boo.png" group-title="MALAYSlA;MOVlES" ch-number="404",404 BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2539,39 +2554,39 @@ https://tunebox.space/i̇i̇i̇i̇boo
 
 
 
-#EXTINF:-1 tvg-id="411.astro" ch-number="411" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbo.png",411 HBO
+#EXTINF:-1 tvg-id="411.astro" ch-number="411" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbo.png",411 HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/i̇i̇i̇i̇hbo
 
 
-#EXTINF:-1 tvg-id="412.astro" ch-number="412" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemax.png",412 CINEMAX
+#EXTINF:-1 tvg-id="412.astro" ch-number="412" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemax.png",412 CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/i̇i̇i̇i̇cinemax
 
-#EXTINF:-1 tvg-id="413.astro" ch-number="413" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showcase.png" group-title="MALAYSlA", 413 SHOWCASE
+#EXTINF:-1 tvg-id="413.astro" ch-number="413" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showcase.png" group-title="MALAYSlA;MOVlES", 413 SHOWCASE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/i̇i̇i̇i̇showcase
 
 
-#EXTINF:-1 tvg-id="414.astro" ch-number="414" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbofamily.png",414 HBO FAMILY
+#EXTINF:-1 tvg-id="414.astro" ch-number="414" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbofamily.png",414 HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/i̇i̇i̇i̇hbofamily
 
-#EXTINF:-1 tvg-id="415.astro" ch-number="415" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbohits.png",415 HBO HITS
+#EXTINF:-1 tvg-id="415.astro" ch-number="415" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbohits.png",415 HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/i̇i̇i̇i̇hbohits
 
-#EXTINF:-1 tvg-id="416.astro" ch-number="416" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvnmovies.png",416 TVN MOVIES
+#EXTINF:-1 tvg-id="416.astro" ch-number="416" group-title="MALAYSlA;MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvnmovies.png",416 TVN MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2628,7 +2643,7 @@ https://tunebox.space/i̇i̇i̇i̇awani
 https://tunebox.space/i̇i̇i̇i̇bernama
 
 
-#EXTINF:-1 tvg-id="503.astro" ch-number="503" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cgtn.png",503 CGTN
+#EXTINF:-1 tvg-id="503.astro" ch-number="503" group-title="MALAYSlA;NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cgtn.png",503 CGTN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2684,12 +2699,12 @@ https://tunebox.space/i̇i̇i̇i̇bloomberg
 https://tunebox.space/i̇i̇i̇i̇abcaustralia
 
 
-#EXTINF:-1 tvg-id="521.astro" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dw.png" ch-number="521",521 DW ENGLISH
+#EXTINF:-1 tvg-id="521.astro" group-title="MALAYSlA;NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dw.png" ch-number="521",521 DW ENGLISH
 #EXTVLCOPT:network-caching=1000
 https://tunebox.space/i̇i̇i̇i̇dwenglish
 
 
-#EXTINF:-1 tvg-id="522.astro" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/france24.png" ch-number="522",522 FRANCE24
+#EXTINF:-1 tvg-id="522.astro" group-title="MALAYSlA;NEWS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/france24.png" ch-number="522",522 FRANCE24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2697,10 +2712,11 @@ https://tunebox.space/i̇i̇i̇i̇dwenglish
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
 https://tunebox.space/i̇i̇i̇i̇france24
 
+#EXTINF:-1 group-title="DOCUMENTARY" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/documentarylogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ M A L A Y S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
-
-#EXTINF:-1 tvg-id="550.astro" ch-number="550" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/documentarylogo.png" group-title="MALAYSlA;DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lovenature.png",550 LOVE NATURE
+#EXTINF:-1 tvg-id="550.astro" ch-number="550"  group-title="MALAYSlA;DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lovenature.png",550 LOVE NATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2741,11 +2757,12 @@ https://tunebox.space/i̇i̇i̇i̇bbcearth
 https://tunebox.space/i̇i̇i̇i̇history
 
 
+#EXTINF:-1 group-title="KlDS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kidslogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ M A L A Y S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
 
-
-#EXTINF:-1 tvg-id="603.astro" ch-number="603" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kidslogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tutortv.png" group-title="MALAYSlA;KlDS",603 TUTOR TV
+#EXTINF:-1 tvg-id="603.astro" ch-number="603" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tutortv.png" group-title="MALAYSlA;KlDS",603 TUTOR TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2774,7 +2791,7 @@ https://tunebox.space/i̇i̇i̇i̇ceria
 
 
 
-#EXTINF:-1 tvg-id="Dreamworks.HD.id" ch-number="612" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dreamworks.png" group-title="MALAYSlA;KlDS"612 ,DREAMWORKS
+#EXTINF:-1 tvg-id="Dreamworks.HD.id" ch-number="612" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dreamworks.png" group-title="MALAYSlA;KlDS", 612 DREAMWORKS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
@@ -2849,13 +2866,18 @@ https://tunebox.space/i̇i̇i̇i̇cbeebies
 https://tunebox.space/i̇i̇i̇i̇axn
 
 
-#EXTINF:-1 tvg-id="702.astro" ch-number="702" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsnow.png",702 HITS NOW
+#EXTINF:-1 tvg-id="702.astro" ch-number="702" group-title="MALAYSlA;ENTERTAlNMENT" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsnow.png",702 HITS NOW
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
 https://tunebox.space/i̇i̇i̇i̇hitsnow
 
-#EXTINF:-1 tvg-id="703.astro" ch-number="703" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifetime.png",703 LIFETIME
+
+#EXTINF:-1 group-title="LlFESTYLE" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifestylelogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us", ◻️◻️◻️◻️ M A L A Y S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 tvg-id="703.astro" ch-number="703" group-title="MALAYSlA;LlFESTYLE" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifetime.png",703 LIFETIME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2877,7 +2899,7 @@ https://tunebox.space/i̇i̇i̇i̇hits
 
 
 
-#EXTINF:-1 tvg-id="707.astro" ch-number="707" group-title="MALAYSlA;LlFESTYLE" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifestylelogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tlc.png",707 TLC
+#EXTINF:-1 tvg-id="707.astro" ch-number="707" group-title="MALAYSlA;LlFESTYLE" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tlc.png",707 TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -2945,10 +2967,11 @@ https://tunebox.space/i̇i̇i̇i̇mtvlive
 
 
 
+#EXTINF:-1 group-title="SPORTS" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports1logo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ M A L A Y S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
-
-#EXTINF:-1 tvg-id="Sukan RTM" ch-number="800" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sportslogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sukanrtm.png" group-title="MALAYSlA;SPORTS",800 SUKAN RTM
+#EXTINF:-1 tvg-id="Sukan RTM" ch-number="800" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sukanrtm.png" group-title="MALAYSlA;SPORTS",800 SUKAN RTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://tunebox.space/i̇i̇i̇i̇beritartm
@@ -3012,7 +3035,7 @@ https://tunebox.space/i̇i̇i̇i̇bola2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="805.astro" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/sportsuhd.png",805 SUPERSPORT UHD
+#EXTINF:-1 tvg-id="805.astro" group-title="MALAYSlA;SPORTS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/sportsuhd.png",805 SUPERSPORT UHD
 https://tunebox.space/i̇i̇i̇i̇supersportsuhd
 
 
@@ -3205,6 +3228,11 @@ ENTERTAINMENT
 http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifetime.png" group-title="ENTERTAlNMENT",LIFETIME ID
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3235,6 +3263,9 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875 
 https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd 
+
+
+
 
 
 
@@ -3278,7 +3309,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mnctv.png" group-title="ENTERTAlNMENT", MNCTV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+https://allcutv.rctiplus.id/mnctv2023.m3u8
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 
 
@@ -3314,12 +3353,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rcti.png" group-title="ENTERTAlNMENT" tvg-id="RCTI.HD.id" tvg-name="RCTI.id", RCTI
-#EXTVLCOPT:http-user-agent=android-R+
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rcti.png" group-title="ENTERTAlNMENT", RCTI
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rctv.png" group-title="ENTERTAlNMENT" tvg-id="" tvg-name="", RCTV
@@ -3344,6 +3389,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/gtv.png" group-title="ENTERTAlNMENT",GTV
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 
 
@@ -3353,11 +3404,10 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sctv.png" group-title="ENTERTAlNMENT",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/magnachannel.png" group-title="ENTERTAlNMENT", MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8|referer=https://video.medcom.id/magnachannel/&origin=https://video.medcom.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
 
 
@@ -3379,6 +3429,13 @@ https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
+
+
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rtv.png" group-title="ENTERTAlNMENT",RTV
+https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="Mediacorp.Entertainment.–.English.distro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mediacorp.png" group-title="ENTERTAlNMENT", MEDIACORP ENTERTAINMENT ENGLISH
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
@@ -3698,146 +3755,12 @@ MOVIES
 
 
 
-#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tuneboxdigital.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺𝗠𝗔𝗟𝗔𝗬𝗦𝗜𝗔🔺🔺🔺🔺🔺
-https://tunebox.shop/promo2
-
-
-#EXTINF:-1 ch-number="108" group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/citra.png" tvg-id="108.astro",CITRA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇citra
-
-
-#EXTINF:-1 tvg-id="128.unifi" ch-number="109" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/duniasinema.png",DUNIA SINEMA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://tunebox.space/i̇i̇i̇i̇duniasinema
-
-
-#EXTINF:-1 tvg-id="121.unifi" ch-number="110" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/siar.png",SIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live31.mpd
-
-
-
-
-#EXTINF:-1 group-title="MOVlES" ch-number="131" tvg-id="FilemMantap" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/filemmantap.png",FILEM MANTAP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://tunebox.space/i̇i̇i̇i̇filemmantap
-
-
-#EXTINF:-1 tvg-id="203.astro" ch-number="203" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vellithirai.png",VELLITHIRAI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇vellithirai
-
-#EXTINF:-1 tvg-id="216.astro" ch-number="216" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ktv.png",KTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c2SM66N1FkWSbUVCHIXZJw", "kid":"jnhjqOdwsNcuvkpoQ3tkEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇ktv
-
-
-
-#EXTINF:-1 group-title="MOVlES" tvg-number="241" tvg-id="241.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thangathirai.png",THANGATHIRAI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇thanga
-
-
-
-
-#EXTINF:-1 tvg-id="251.astro" ch-number="251" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/zeecinema.png" group-title="MOVlES",ZEE CINEMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇zeecinema
-
-
-#EXTINF:-1 tvg-id="309.astro" ch-number="309" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/celestialmovies.png" group-title="MOVlES",CELESTIAL MOVIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇celestialmovies
-
-
-#EXTINF:-1 tvg-id="321.astro" ch-number="321" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ccm.png",CELESTIAL CLASSIC MOVIES
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇ccm
-
-
-
-#EXTINF:-1 tvg-id="401.astro" ch-number="401" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsmovies.png",HITS MOVIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇hitsmovies
-
-
-
-
-#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/boo.png" group-title="MOVlES" ch-number="404",BOO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇boo
 
 
 
 
 
-#EXTINF:-1 tvg-id="411.astro" ch-number="411" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbo.png",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇hbo
-
-
-#EXTINF:-1 tvg-id="412.astro" ch-number="412" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemax.png",CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇cinemax
-
-#EXTINF:-1 tvg-id="413.astro" ch-number="413" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showcase.png" group-title="MOVlES",SHOWCASE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇showcase
-
-
-#EXTINF:-1 tvg-id="414.astro" ch-number="414" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbofamily.png",HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇hbofamily
-
-#EXTINF:-1 tvg-id="415.astro" ch-number="415" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbohits.png",HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇hbohits
-
-#EXTINF:-1 tvg-id="416.astro" ch-number="416" group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvnmovies.png",TVN MOVIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/i̇i̇i̇i̇tvnmovies
-
-
-#EXTINF:-1 group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tuneboxdigital.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺𝗜𝗡𝗗𝗢𝗡𝗘𝗦𝗜𝗔🔺🔺🔺🔺🔺
+#EXTINF:-1 group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ I N D O N E S I A ◻️◻️◻️◻️
 https://tunebox.shop/promo2
 
 
@@ -3855,7 +3778,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/maxstream.png" group-title="MOVlES" tvg-id="Maxstream.id" tvg-name="", MAX STREAM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/maxstream.png" group-title="MOVlES" tvg-id="Maxstream.id" tvg-name="", MAXSTREAM
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
@@ -4007,7 +3930,7 @@ https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 
 
-#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tuneboxdigital.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺DISTRO🔺🔺🔺🔺🔺
+#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",D I S T R O
 https://tunebox.shop/promo2
 
 #EXTINF:-1 tvg-id="Bollywood.HD.distro"  group-title="MOVlES" ch-number="190" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bollywoodhd.png",BOLLYWOOD HD
@@ -4022,7 +3945,7 @@ https://ott.udptv.net/stream/iptv/screamflix/master.m3u8?u=discord.gg/civ3&p=fb3
 
 
 
-#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tuneboxdigital.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺INDIA🔺🔺🔺🔺🔺
+#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",I N D I A
 https://tunebox.shop/promo2
 
 
@@ -4051,7 +3974,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 
 
 
-#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tuneboxdigital.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺 PHILIPPINES 🔺🔺🔺🔺🔺
+#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us", ◻️◻️◻️◻️ P H I L I P P I N E S  ◻️◻️◻️◻️
 https://tunebox.shop/promo2
 
 
@@ -4218,7 +4141,7 @@ https://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ3&p=f
 
 
 
-#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tuneboxdigital.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺UNITED STATES🔺🔺🔺🔺🔺
+#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ U N I T E D  S T A T E S ◻️◻️◻️◻️
 https://tunebox.shop/promo2
 
 
@@ -4349,7 +4272,7 @@ https://ott.udptv.net/stream/iptv/udptvus/fxx/master.m3u8?u=discord.gg/civ3&p=fb
 
 
 
-#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tuneboxdigital.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺RAKUTEN🔺🔺🔺🔺🔺
+#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",R A K U T E N
 https://tunebox.shop/promo2
 
 
@@ -4381,7 +4304,7 @@ https://jmp2.uk/sam-GB2600013BO.m3u8
 https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
 
 
-#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tuneboxdigital.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺PLUTOTV🔺🔺🔺🔺🔺
+#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us", ◻️◻️◻️◻️ ,P L U T O  T V  ◻️◻️◻️◻️
 https://tunebox.shop/promo2
 
 
@@ -4534,10 +4457,8 @@ https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
 
 
 
-DRAMA
-######
-
-
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ I N D O N E S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hits.png" group-title="DRAMA",HITS ID
@@ -4559,6 +4480,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+
+
+
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us", ◻️◻️◻️◻️ U N I T E D  S T A T E S ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
 #EXTINF:0 CUID="1787" tvg-name="COZI TV" tvg-id="ktel.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cozitv.png" group-title="DRAMA",COZI TV
@@ -4618,7 +4544,8 @@ https://fl3.moveonjoy.com/W_NETWORK/tracks-v1a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ P H I L I P P I N E S  ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
 
@@ -4647,7 +4574,8 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn.mpd
 
 
 
-
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us" ◻️◻️◻️◻️ ,P L U T O  T V  ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
 #EXTINF:0 CUID="169" tvg-name="Baywatch" tvg-id="5d815eb889bca2ce7b746fdd" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/baywatch.png" group-title="DRAMA",Baywatch
@@ -4772,8 +4700,8 @@ https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 
 
 
-KIDS
-####
+#EXTINF:-1 group-title="KlDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ I N D O N E S I A ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
 #EXTINF:-1 group-title="KlDS" tvg-id="472.unifi" ch-number="471" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/animax.png",ANIMAX
@@ -4822,6 +4750,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/191846.ts
 
 
+
+
+#EXTINF:-1 group-title="KlDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",◻️◻️◻️◻️ U N I T E D  S T A T E S ◻️◻️◻️◻️
+https://tunebox.shop/promo2
+
 #EXTINF:0 CUID="1793" tvg-name="DISNEY CHANNEL" tvg-id="Disney.Channel.cy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/disneychannel.png" group-title="KlDS",DISNEY CHANNEL USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl5.moveonjoy.com/DISNEY/tracks-v1a1/mono.m3u8
@@ -4841,6 +4774,11 @@ https://fl3.moveonjoy.com/NICK_JR/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="1843" tvg-name="NICKTOONS" tvg-id="Nicktoons.ch" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nicktoons.png" group-title="KlDS",NICKTOONS USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl1.moveonjoy.com/NICKTOONS/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="KlDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us", ◻️◻️◻️◻️ ,P L U T O  T V  ◻️◻️◻️◻️
+https://tunebox.shop/promo2
 
 
 #EXTINF:-1 tvg-id="6452c814939a590008567a3b" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/90skids.png" group-title="KlDS", 90's Kids
@@ -4956,7 +4894,8 @@ https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
 #EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/yugioh.png" group-title="KlDS", Yu-Gi-Oh!
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 
-
+#EXTINF:-1 group-title="KlDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",F A S T  T V
+https://tunebox.shop/promo2
 
 #EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KlDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kidstv.png",FAST TV KIDS 1
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
@@ -5006,36 +4945,188 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
 SPORTS
 #######
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="sonysport.ott"SONY SPORT
+https://tunebox.shop/promo2 
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports1.png",SONY TEN SPORTS 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports2.png",SONY TEN SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports3.png",SONY TEN SPORTS 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony Ten 4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports4.png",SONY TEN SPORTS 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Sony Ten 5" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports5.png",SONY TEN SPORTS 5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",T N T
+https://tunebox.shop/promo2
+
+#EXTINF:-1 CUID="1240" tvg-chno="289" tvg-name="TNT SPORTS 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 CUID="1241" tvg-chno="290" tvg-name="TNT SPORTS 2" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 CUID="1242" tvg-chno="291" tvg-name="TNT SPORTS 3" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 CUID="1243" tvg-chno="292" tvg-name="TNT SPORTS 4" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",B R A Z I L
+https://tunebox.shop/promo2
+
+
+
+#EXTINF:-1 tvg-id="Premiere 1 BR" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiere1.png" group-title="SPORTS",PREMIERE 1 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#EXTINF:-1 tvg-id="Premiere 2 BR" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiere2.png" group-title="SPORTS",PREMIERE 2 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#EXTINF:-1 tvg-id="Premiere 3 BR" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiere3.png" group-title="SPORTS",PREMIERE 3 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
+
+#EXTINF:-1 tvg-id="Premiere 4 BR" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiere4.png" group-title="SPORTS",PREMIERE 4 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+#EXTINF:-1 tvg-id="Premiere 5 BR" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiere5.png" group-title="SPORTS",PREMIERE 5 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
+
+#EXTINF:-1 tvg-id="Premiere 6 BR" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiere6.png" group-title="SPORTS",PREMIERE 6 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+
+#EXTINF:-1 tvg-id="Premiere 7 BR" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiere7.png" group-title="SPORTS",PREMIERE 7 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+
+#EXTINF:-1 tvg-id="Premiere 8 BR" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiere8.png" group-title="SPORTS",PREMIERE 8 BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn1.png" group-title="SPORTS",DAZN 1 FR
+http://iptvtree.net:8080/F25093/29838750/54437
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn2.png" group-title="SPORTS",DAZN 2 FR
+http://iptvtree.net:8080/F25093/29838750/54444
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn.png" group-title="SPORTS", DAZN F1 ES
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn1.png" group-title="SPORTS", DAZN 1 ES
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115842
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn2.png" group-title="SPORTS", DAZN 2 ES
+rtmp://f13h.mine.nu/sat/tv741
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn3.png" group-title="SPORTS", DAZN 3 ES
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115845
+
+
+
 
 
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax4.png" group-title="SPORTS",BEIN SPORTS MAX 4 FRANCE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax5.png" group-title="SPORTS",BEIN SPORTS MAX 5 FRANCE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax6.png" group-title="SPORTS",BEIN SPORTS MAX 6 FRANCE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax7.png" group-title="SPORTS",BEIN SPORTS MAX 7 FRANCE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax8.png" group-title="SPORTS",BEIN SPORTS MAX 8 FRANCE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax9.png" group-title="SPORTS",BEIN SPORTS MAX 9 FRANCE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax10.png" group-title="SPORTS",BEIN SPORTS MAX 10 FRANCE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 #EXTINF:-1 tvg-id="825.astro" ch-number="825" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport.png" group-title="SPORTS",EUROSPORT 
@@ -5046,12 +5137,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport1.png" group-title="SPORTS",EUROSPORT 1 FRANCE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport2.png" group-title="SPORTS",EUROSPORT 2 FRANCE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/eurosport.png",EUROSPORT ASIA ID
@@ -5163,8 +5254,8 @@ https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c1
 
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORTS F1 DE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://windnew.newkso.ru/wind/premium274/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://windnew.newkso.ru/wind/premium274/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 
@@ -5279,31 +5370,28 @@ https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn1.png" group-title="SPORTS",DAZN 1 Bar DE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn2.png" group-title="SPORTS",DAZN 2 Bar DE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+
 
 
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dubaisports1.png" group-title="SPORTS",Dubai Sports 1 UAE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium604/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://dokko1new.newkso.ru/dokko1/premium604/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dubaisports2.png" group-title="SPORTS",Dubai Sports 2 UAE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium605/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://dokko1new.newkso.ru/dokko1/premium605/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dubaisports3.png" group-title="SPORTS",Dubai Sports 3 UAE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium606/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://dokko1new.newkso.ru/dokko1/premium606/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/racingdubai.png" group-title="SPORTS",Dubai Racing 1 UAE
-#EXTVLCOPT:http-origin=https://newembedplay.xyz/
-https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://veplay.top/
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|referer=https://veplay.top/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Horizon.Sports.distro" ch-number="790" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/horizonsports.png",790 HORIZON SPORTS 
 #EXTGRP:SPORTS
@@ -6791,12 +6879,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/trans7.png" group-title="NEWS" tvg-id="Trans7.id" tvg-name="Trans7.id", TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
-pd/DAAITV.mpd
 
 #EXTINF:-1 tvg-id="Kompas.TV.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kompastv.png" group-title="NEWS",KOMPAS TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -7542,23 +7630,8 @@ https://ott.udptv.net/stream/iptv/udptv/sport2baltic/master.m3u8?u=discord.gg/ci
 #EXTINF:-1 CUID="1226" tvg-chno="275" tvg-name="SPORT 4" tvg-id="iptv/sport4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports4.png" group-title="SPORTS",SPORT 4
 https://ott.udptv.net/stream/iptv/udptv/sport4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 CUID="1239" tvg-chno="288" tvg-name="TNT" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT FHD
-https://ott.udptv.net/stream/iptv/udptvus/tnt/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 CUID="1240" tvg-chno="289" tvg-name="TNT SPORTS 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 1
-https://ott.udptv.net/stream/iptv/skyuk/tntsports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 CUID="1241" tvg-chno="290" tvg-name="TNT SPORTS 2" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 2
-https://ott.udptv.net/stream/iptv/skyuk/tntsports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 CUID="1242" tvg-chno="291" tvg-name="TNT SPORTS 3" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 3
-https://ott.udptv.net/stream/iptv/skyuk/tntsports3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 CUID="1243" tvg-chno="292" tvg-name="TNT SPORTS 4" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 4
-https://ott.udptv.net/stream/iptv/skyuk/tntsports4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-#EXTINF:-1 CUID="1244" tvg-chno="293" tvg-name="TNT SPORTS 5" tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 5 FHD
-https://ott.udptv.net/stream/iptv/tntsports5/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 CUID="1247" tvg-chno="296" tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN1 FHD
 https://ott.udptv.net/stream/iptv/tsn1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
@@ -7614,8 +7687,7 @@ https://ott.udptv.net/stream/iptv/nbc/ewest/master.m3u8?u=discord.gg/civ3&p=fb3f
 #EXTINF:-1 CUID="2313" tvg-chno="106" tvg-name="GOLD" tvg-id="skyuk/gold" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gold.png" group-title="ENTERTAlNMENT",GOLD
 https://ott.udptv.net/stream/iptv/skyuk/gold/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 CUID="2315" tvg-chno="108" tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gtv.png" group-title="ENTERTAlNMENT",GTV FHD
-https://ott.udptv.net/stream/iptv/gtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
 
 #EXTINF:-1 CUID="2319" tvg-chno="112" tvg-name="HBO COMEDY" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbocomedy.png" group-title="ENTERTAlNMENT",HBO COMEDY FHD
 https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
@@ -7701,6 +7773,33 @@ https://ott.udptv.net/stream/iptv/udptv/vevohiphop/master.m3u8?u=discord.gg/civ3
 
 #EXTINF:-1 CUID="2817" tvg-chno="314" tvg-name="VEVO R&B" tvg-id="plex.tv.Vevo.Pop.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevor&b.png" group-title="MUSlC",VEVO R&B
 https://ott.udptv.net/stream/iptv/udptv/vevorb/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="IDTV.id" tvg-name="IDTV" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/beritasatu.png" group-title="NEWS",BERITA SATU
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8|referer=https://investor.id/&origin=https://investor.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+
+
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cnbc.png" group-title="NEWS", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cnn.png" group-title="NEWS", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="https://iili.io/2rCEOZl.png" group-title="NEWS", GARUDA TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+
+
 
 #EXTINF:-1 CUID="2821" tvg-chno="16" tvg-name="ABC AUSTRALIA USA" tvg-id="ABC.Australia.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/abcaustralia.png" group-title="NEWS",ABC AUSTRALIA USA FHD
 https://ott.udptv.net/stream/iptv/astro/abcaustralia/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
@@ -7873,7 +7972,7 @@ https://ott.udptv.net/stream/iptv/udptv/travelchannel/master.m3u8?u=discord.gg/c
 #EXTINF:-1 CUID="3994" tvg-chno="295" tvg-name="TRAVEL CHANNEL US" tvg-id="Travel.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/travelchannel.png" group-title="LlFESTYLE",TRAVEL CHANNEL US FHD
 https://ott.udptv.net/stream/iptv/udptvus/travelchannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 CUID="4020" tvg-chno="19" tvg-name="ALIBI" tvg-id="skyuk/alibi" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/alibi.png" group-title="OTHER",ALIBI
+#EXTINF:-1 CUID="4020" tvg-chno="19" tvg-name="ALIBI" tvg-id="skyuk/alibi" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/alibi.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/realshow.png" group-title="OTHER",ALIBI
 https://ott.udptv.net/stream/iptv/skyuk/alibi/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 CUID="4056" tvg-chno="55" tvg-name="CGTN" tvg-id="CGTN.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cgtn.png" group-title="OTHER",CGTN FHD
@@ -7885,7 +7984,7 @@ https://ott.udptv.net/stream/iptv/skyuk/gold/master.m3u8?u=discord.gg/civ3&p=fb3
 #EXTINF:-1 CUID="4109" tvg-chno="108" tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gtv.png" group-title="OTHER",GTV FHD
 https://ott.udptv.net/stream/iptv/gtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-#EXTINF:-1 CUID="4129" tvg-chno="128" tvg-name="JUGO PINOY TV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/jungopinoy.png" group-title="OTHER",JUGO PINOY TV FHD
+#EXTINF:-1 CUID="4129" tvg-chno="128" tvg-name="JUGO PINOY TV" tvg-id="Local.Programming.Dummy.us" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thriller.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/jungopinoy.png" group-title="THRILLER",JUGO PINOY TV FHD
 https://ott.udptv.net/stream/iptv/jugopinoytv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1 CUID="4130" tvg-chno="129" tvg-name="K-PLUS" tvg-id="K-Plus.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/k+.png" group-title="OTHER",K-PLUS FHD
@@ -7944,6 +8043,471 @@ https://ott.udptv.net/stream/iptv/taptv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99
 
 #EXTINF:-1 CUID="4299" tvg-chno="301" tvg-name="TV5 HD" tvg-id="Tv5.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv5.png" group-title="OTHER",TV5 HD FHD
 https://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+
+
+
+
+
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/animax.png" group-title="KlDS" ="AKTV" tvg-id="aktv/animaxhk" provider-type="iptv",ANIMAX
+https://s2.m16tv.cfd/aktv/animaxhk/AKTV.m3u8 
+
+#EXTINF:2 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/axn.png" group-title="DRAMA" ="AKTV" tvg-id="aktv/axn" provider-type="iptv",AXN
+https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8 
+
+#EXTINF:3 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/channel5.png" group-title="OTHER" tvg-id="aktv/channel5hd" provider-type="iptv",CHANNEL 5
+https://s2.m16tv.cfd/aktv/channel5hd/AKTV.m3u8 
+
+#EXTINF:4 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/channel8.png" group-title="OTHER" ="AKTV" tvg-id="aktv/channel8hd" provider-type="iptv",CHANNEL 8
+https://s2.m16tv.cfd/aktv/channel8hd/AKTV.m3u8 
+
+#EXTINF:5 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/channelu.png" group-title="OTHER" ="AKTV" tvg-id="aktv/channeluhd" provider-type="iptv",CHANNEL U
+https://s2.m16tv.cfd/aktv/channeluhd/AKTV.m3u8 
+
+#EXTINF:6 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mytvsuper18.png" group-title="OTHER" tvg-id="aktv/mytvsuper18" provider-type="iptv",MYTV SUPER 18 CHANNEL
+https://s2.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8 
+
+#EXTINF:7 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/popc.png" group-title="OTHER" ="AKTV" tvg-id="aktv/popc" provider-type="iptv",POPC 
+https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8 
+
+#EXTINF:8 group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crime.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/rockaction" provider-type="iptv",ROCK Action 
+https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8 
+
+#EXTINF:9 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvb+.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/tvbplus" provider-type="iptv",TVB Plus 
+https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8 
+
+#EXTINF:10 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvn.png" group-title="DRAMA" ="AKTV" tvg-id="aktv/tvn" provider-type="iptv",TVN 
+https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8 
+
+#EXTINF:11 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbpearldrama.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-19" provider-type="iptv", Pearl Drama Channel (North America) 
+https://s2.m16tv.cfd/aktv/CH-19/AKTV.m3u8 
+
+#EXTINF:12 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbpearldrama.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-2" provider-type="iptv",Pearl Channel
+https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8 
+
+#EXTINF:13 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbenews.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-1" provider-type="iptv",TVB News Channel
+https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+
+#EXTINF:14 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/meiahentertainment.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/hk" provider-type="iptv",ASIA MOVIE CHANNEL
+https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8 
+
+
+#EXTINF:17 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbjade.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-17" provider-type="iptv",Jade Comprehensive Channel (North America) 
+https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8 
+
+#EXTINF:18 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/phoenixchinesechannel.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-3" provider-type="iptv",Phoenix Chinese TV 
+https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8 
+
+#EXTINF:19 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/phoenixinfonews.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-4" provider-type="iptv",Phoenix News TV 
+https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8 
+
+#EXTINF:20 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/phoenixchinesechannel.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-5" provider-type="iptv",Phoenix Hong Kong TV 
+https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8 
+
+
+
+
+#EXTINF:23 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-3" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/celestialmovies.png" provider="AKTV2" provider-logo="" provider-type="iptv", Celestial Movies
+https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8 
+
+#EXTINF:24 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-4" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hollywoodtv.png" provider="AKTV2" provider-logo="" provider-type="iptv",Hollywood Movie Channel
+https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8 
+
+#EXTINF:25 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-2" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/easternforeignchannel.png" provider="AKTV2" provider-logo="" provider-type="iptv",Eastern Foreign Film 
+https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8 
+
+#EXTINF:26 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-1" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/easternforeignchannel.png" provider="AKTV2" provider-logo="" provider-type="iptv",Eastern Movies 
+https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8 
+
+#EXTINF:27 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-0" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/videoland.png" provider="AKTV2" provider-logo="" provider-type="iptv",Videoland Sports Channel 
+https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8 
+
+#EXTINF:28 group-title="PROGRESS" ="AKTV3" tvg-id="aktv3/cna" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cna.png" provider="AKTV3" provider-logo="" provider-type="iptv",CNA
+https://s2.m16tv.cfd/aktv3/cna/AKTV.m3u8 
+
+#EXTINF:29 group-title="PROGRESS" ="AKTV3" tvg-id="aktv3/kpop" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/kpop+.png" provider="AKTV3" provider-logo="" provider-type="iptv",KPOP+ 
+https://s2.m16tv.cfd/aktv3/kpop/AKTV.m3u8 
+
+
+
+
+
+
+#EXTINF:34 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-3" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mycinemaeurope.png" provider="taiwan" provider-logo="" provider-type="iptv",My Cinema Europe HD My European movies 
+https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8 
+
+#EXTINF:35 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/tvbs" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbs.png" provider="taiwan" provider-logo="" provider-type="iptv",TVBS 
+https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8 
+
+#EXTINF:36 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-4" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ttv.png" provider="taiwan" provider-logo="" provider-type="iptv", Taiwan TV 
+https://s2.m16tv.cfd/taiwan/CH-4/AKTV.m3u8 
+
+#EXTINF:37 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-2" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/magellantv.png" provider="taiwan" provider-logo="" provider-type="iptv", Movie Fan Digital Documentary Channel 
+https://s2.m16tv.cfd/taiwan/CH-2/AKTV.m3u8 
+
+#EXTINF:38 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-1" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mintv.png" provider="taiwan" provider-logo="" provider-type="iptv",MinTV
+https://s2.m16tv.cfd/taiwan/CH-1/AKTV.m3u8 
+
+#EXTINF:39 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-0" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mintv1.png" provider="taiwan" provider-logo="" provider-type="iptv",MinTV1
+https://s2.m16tv.cfd/taiwan/CH-0/AKTV.m3u8 
+
+#EXTINF:40 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-5" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/longhua.png" provider="taiwan" provider-logo="" provider-type="iptv",Longhua Japan and South Korea 
+https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8 
+
+#EXTINF:41 group-title="PROGRESS" ="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbxinghe.png" provider="taiwan2" provider-logo="" provider-type="iptv",TVB Galaxy 
+https://s2.m16tv.cfd/taiwan2/tvb/AKTV.m3u8 
+
+#EXTINF:42 group-title="PROGRESS" ="TVBS" tvg-id="tvbs/tvbs" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbsnews.png" provider="TVBS" provider-logo="" provider-type="iptv",TVBS News
+https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+
+#EXTINF:43 group-title="PROGRESS" ="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ctiasia.png" provider="zhongtian" provider-logo="" provider-type="iptv",CTI ASIA 
+https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8 
+
+#EXTINF:44 group-title="PROGRESS" ="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ettvnews.png" provider="zhongtian" provider-logo="" provider-type="iptv",ETTV News 
+https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
