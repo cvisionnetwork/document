@@ -1926,11 +1926,7 @@ CODE:403-FORBIDDEN
 
 
 
-
-
-
-
-#EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epg.pw/xmltv/epg_SG.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,  https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/TUNEBOXDlGlTAL/EPG/main/sonysport.xml, https://bit.ly/moj-epg, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://i.mjh.nz/PlutoTV/all.xml" vod_library="https://tunebox.space/i̇i̇i̇i̇vod, https://tunebox.space/i̇i̇i̇i̇addon" billed-msg="U N T U K  M E L A N G G A N  H U B U N G I  W H A T S A P P - 0 1 1  3 1 0 9  2 6 0 5"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://bit.ly/moj-epg" vod_library="https://tunebox.space/i̇i̇i̇i̇vod, https://tunebox.space/i̇i̇i̇i̇addon" billed-msg="H U B U N G I   M A K L U M A T   T E R T E R A   U N T U K   P E R T A N Y A A N   A T A U   L A N G G A N A N.   W H A T S A P P / T E L E G R A M ••• 0 1 1   3 1 0 9   2 6 0 5"
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="MALAYSlA",101 TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -2119,8 +2115,8 @@ https://tunebox.space/i̇i̇i̇i̇aura
 
 
 
-
-
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" ch-number="129" Awesome" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/main/awesometv.png" group-title="MALAYSlA",129 AWESOME TV
+https://tunebox.space/i̇i̇i̇i̇awesometv
 
 
 
@@ -3354,17 +3350,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
 
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rcti.png" group-title="ENTERTAlNMENT", RCTI
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rctv.png" group-title="ENTERTAlNMENT" tvg-id="" tvg-name="", RCTV
@@ -3839,7 +3824,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 
-
+#EXTINF:-1 tvg-id="galaxy.id" tvg-name="148 Galaxy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/galaxy.png" group-title="MOVlES",GALAXY
+https://tunebox.space/i̇i̇i̇i̇galaxy
 
 
 
@@ -5131,7 +5117,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
 SPORTS
 #######
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="sonysport.ott"SONY SPORT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="sonysport.ott",SONY SPORT
 https://tunebox.shop/promo2 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sonysports1.png",SONY TEN SPORTS 1
@@ -8510,172 +8496,6 @@ https://ott.udptv.net/stream/iptv/taptv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99
 #EXTINF:-1 CUID="4299" tvg-chno="301" tvg-name="TV5 HD" tvg-id="Tv5.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv5.png" group-title="OTHER",TV5 HD FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
 https://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
-
-
-
-
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/animax.png" group-title="KlDS" ="AKTV" tvg-id="aktv/animaxhk" provider-type="iptv",ANIMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/animaxhk/AKTV.m3u8 
-
-#EXTINF:2 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/axn.png" group-title="DRAMA SERIES" ="AKTV" tvg-id="aktv/axn" provider-type="iptv",AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8 
-
-#EXTINF:3 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/channel5.png" group-title="OTHER" tvg-id="aktv/channel5hd" provider-type="iptv",CHANNEL 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/channel5hd/AKTV.m3u8 
-
-#EXTINF:4 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/channel8.png" group-title="OTHER" ="AKTV" tvg-id="aktv/channel8hd" provider-type="iptv",CHANNEL 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/channel8hd/AKTV.m3u8 
-
-#EXTINF:5 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/channelu.png" group-title="OTHER" ="AKTV" tvg-id="aktv/channeluhd" provider-type="iptv",CHANNEL U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/channeluhd/AKTV.m3u8 
-
-#EXTINF:6 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mytvsuper18.png" group-title="OTHER" tvg-id="aktv/mytvsuper18" provider-type="iptv",MYTV SUPER 18 CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8 
-
-#EXTINF:7 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/popc.png" group-title="OTHER" ="AKTV" tvg-id="aktv/popc" provider-type="iptv",POPC 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8 
-
-#EXTINF:8 group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crime.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/rockaction.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/rockaction" provider-type="iptv",ROCK Action 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8 
-
-#EXTINF:9 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvb+.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/tvbplus" provider-type="iptv",TVB Plus 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8 
-
-#EXTINF:10 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvn.png" group-title="DRAMA SERIES" ="AKTV" tvg-id="aktv/tvn" provider-type="iptv",TVN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8 
-
-#EXTINF:11 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbpearldrama.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-19" provider-type="iptv", Pearl Drama Channel (North America) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/CH-19/AKTV.m3u8 
-
-#EXTINF:12 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbpearldrama.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-2" provider-type="iptv",Pearl Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8 
-
-#EXTINF:13 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbenews.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-1" provider-type="iptv",TVB News Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-
-#EXTINF:14 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/meiahentertainment.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/hk" provider-type="iptv",ASIA MOVIE CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8 
-
-
-#EXTINF:17 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbjade.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-17" provider-type="iptv",Jade Comprehensive Channel (North America) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8 
-
-#EXTINF:18 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/phoenixchinesechannel.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-3" provider-type="iptv",Phoenix Chinese TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8 
-
-#EXTINF:19 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/phoenixinfonews.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-4" provider-type="iptv",Phoenix News TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8 
-
-#EXTINF:20 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/phoenixchinesechannel.png" group-title="PROGRESS" ="AKTV" tvg-id="aktv/CH-5" provider-type="iptv",Phoenix Hong Kong TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8 
-
-
-
-
-#EXTINF:23 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-3" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/celestialmovies.png" provider="AKTV2" provider-logo="" provider-type="iptv", Celestial Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8 
-
-#EXTINF:24 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-4" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hollywoodtv.png" provider="AKTV2" provider-logo="" provider-type="iptv",Hollywood Movie Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8 
-
-#EXTINF:25 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-2" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/easternforeignchannel.png" provider="AKTV2" provider-logo="" provider-type="iptv",Eastern Foreign Film 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8 
-
-#EXTINF:26 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-1" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/easternforeignchannel.png" provider="AKTV2" provider-logo="" provider-type="iptv",Eastern Movies 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8 
-
-#EXTINF:27 group-title="PROGRESS" ="AKTV2" tvg-id="aktv2/CH-0" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/videoland.png" provider="AKTV2" provider-logo="" provider-type="iptv",Videoland Sports Channel 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8 
-
-#EXTINF:28 group-title="PROGRESS" ="AKTV3" tvg-id="aktv3/cna" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cna.png" provider="AKTV3" provider-logo="" provider-type="iptv",CNA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv3/cna/AKTV.m3u8 
-
-#EXTINF:29 group-title="PROGRESS" ="AKTV3" tvg-id="aktv3/kpop" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/kpop+.png" provider="AKTV3" provider-logo="" provider-type="iptv",KPOP+ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/aktv3/kpop/AKTV.m3u8 
-
-
-
-
-
-
-#EXTINF:34 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-3" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mycinemaeurope.png" provider="taiwan" provider-logo="" provider-type="iptv",My Cinema Europe HD My European movies 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8 
-
-#EXTINF:35 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/tvbs" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbs.png" provider="taiwan" provider-logo="" provider-type="iptv",TVBS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8 
-
-#EXTINF:36 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-4" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ttv.png" provider="taiwan" provider-logo="" provider-type="iptv", Taiwan TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/taiwan/CH-4/AKTV.m3u8 
-
-#EXTINF:37 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-2" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/magellantv.png" provider="taiwan" provider-logo="" provider-type="iptv", Movie Fan Digital Documentary Channel 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/taiwan/CH-2/AKTV.m3u8 
-
-#EXTINF:38 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-1" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mintv.png" provider="taiwan" provider-logo="" provider-type="iptv",MinTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/taiwan/CH-1/AKTV.m3u8 
-
-#EXTINF:39 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-0" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mintv1.png" provider="taiwan" provider-logo="" provider-type="iptv",MinTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/taiwan/CH-0/AKTV.m3u8 
-
-#EXTINF:40 group-title="PROGRESS" ="taiwan" tvg-id="taiwan/CH-5" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/longhua.png" provider="taiwan" provider-logo="" provider-type="iptv",Longhua Japan and South Korea 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8 
-
-#EXTINF:41 group-title="PROGRESS" ="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbxinghe.png" provider="taiwan2" provider-logo="" provider-type="iptv",TVB Galaxy 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/taiwan2/tvb/AKTV.m3u8 
-
-#EXTINF:42 group-title="PROGRESS" ="TVBS" tvg-id="tvbs/tvbs" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvbsnews.png" provider="TVBS" provider-logo="" provider-type="iptv",TVBS News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-
-#EXTINF:43 group-title="PROGRESS" ="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ctiasia.png" provider="zhongtian" provider-logo="" provider-type="iptv",CTI ASIA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8 
-
-#EXTINF:44 group-title="PROGRESS" ="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ettvnews.png" provider="zhongtian" provider-logo="" provider-type="iptv",ETTV News 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPod touch; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) FxiOS/118.0 Mobile/15E148 Safari/605.1.15
-https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
